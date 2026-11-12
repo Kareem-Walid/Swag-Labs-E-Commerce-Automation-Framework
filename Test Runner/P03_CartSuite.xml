@@ -1,11 +1,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >
 
-<suite name="Login Suite">
+<suite name="P03 Cart Suite">
     <listeners>
         <listener class-name="Listeners.ITestResultListenerClass"/>
         <listener class-name="Listeners.IInvokeMethodListenerClass"/>
     </listeners>
-    <test name="Login Test">
+    <test name="Cart Test">
         <classes>
             <class name="Tests.TC03_CartTest"/>
         </classes>

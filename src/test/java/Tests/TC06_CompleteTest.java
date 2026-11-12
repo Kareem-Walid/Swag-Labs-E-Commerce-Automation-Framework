@@ -94,7 +94,7 @@ public class TC06_CompleteTest {
     public void check_Facebook_SocialMediaTC() throws IOException {
         new P06_CompletePage(getDriver())
                 .clickOnFacebookIcon();
-        Assert.assertTrue(Utility.verifyURL(getDriver(), getPropertyData("environment", "OFFICIAL_X_LINK")));
+        Assert.assertTrue(Utility.verifyURL(getDriver(), getPropertyData("environment", "OFFICIAL_FACEBOOK_LINK")));
     }
 
     @Test(enabled = true)
