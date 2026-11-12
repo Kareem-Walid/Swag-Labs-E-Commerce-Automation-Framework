@@ -1,0 +1,3 @@
+[INFO] 12-11-2026 12:13:11 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:12)] - Test Case validLoginTC STARTED
+[INFO] 12-11-2026 12:13:16 [main] [Listeners.IInvokeMethodListenerClass.afterInvocation(IInvokeMethodListenerClass.java:34)] - Test Case validLoginTC FAILED
+[INFO] 12-11-2026 12:13:16 [main] [Listeners.ITestResultListenerClass.onTestFailure(ITestResultListenerClass.java:22)] - Test Case validLoginTC failed

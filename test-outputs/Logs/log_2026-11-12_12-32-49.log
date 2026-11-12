@@ -1,0 +1,3 @@
+[INFO] 12-11-2026 12:32:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:12)] - Test Case check_Facebook_SocialMediaTC STARTED
+[INFO] 12-11-2026 12:32:54 [main] [Listeners.IInvokeMethodListenerClass.afterInvocation(IInvokeMethodListenerClass.java:36)] - Test case check_Facebook_SocialMediaTC Failed
+[INFO] 12-11-2026 12:33:06 [main] [Listeners.ITestResultListenerClass.onTestFailure(ITestResultListenerClass.java:22)] - Test Case check_Facebook_SocialMediaTC failed
